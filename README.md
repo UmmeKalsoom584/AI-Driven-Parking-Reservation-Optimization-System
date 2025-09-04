@@ -1,5 +1,5 @@
 AI-Driven Parking Reservation & Optimization System
-AI-driven parking reservation system using ML for demand prediction and space optimization.
+
 🌍 Overview:
 An intelligent parking platform that uses machine learning to predict demand and dynamically allocate spaces. It enhances efficiency by offering personalized user bookings and provides administrators with actionable analytics through data visualization.
 
